@@ -1,0 +1,38 @@
+_repo: Major-Frank_27425
+_version: 0.1.0
+alternative_title: Majoor Frans. English
+contributor:
+  translator:
+    agent_name: Akeroyd, James
+    gutenberg_agent_id: '32684'
+    url: http://www.gutenberg.org/2009/agents/32684
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bosboom-Toussaint, A. L. G. (Anna Louisa Geertruida)
+    aliases:
+    - Bosboom-Toussaint, Anna Louisa Geertruida
+    - Toussaint, Geertruida
+    birthdate: 1812
+    deathdate: 1886
+    gutenberg_agent_id: '9527'
+    url: http://www.gutenberg.org/2009/agents/9527
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Anna_Louisa_Geertruida_Bosboom-Toussaint
+    - http://en.wikipedia.org/wiki/Anna_Louisa_Geertruida_Bosboom-Toussaint
+description: ''
+gutenberg_issued: '2008-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch fiction -- Translations into English'
+title: Major Frank
+url: http://www.gutenberg.org/ebooks/27425
